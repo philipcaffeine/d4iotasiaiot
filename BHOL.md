@@ -6,9 +6,11 @@
 
 ## I. Create an free Azure Subscription
     
-You can use your own Azure Subscription, or use below link to apply an Azure China trial subscription.    
+You can use your own Azure Subscription, or use below link to apply an Azure trial subscription.    
 https://azure.microsoft.com/en-us/free/
 
+There will be around 10-30 USD of workshop Azure cost, if you are using trial version of Defender for IoT and shutdown/stop VM while not using it.
+For details of Azure pricing, please refer to Azure Pricing Calculator, https://azure.microsoft.com/en-us/pricing/calculator
 
 1. To apply for a free Azure Account, Open Cloud Computing Services | Microsoft Azure
 Click "start free"
@@ -19,7 +21,17 @@ Click "start free"
 
 ![Alt text](figures/bhol-2.jpg?raw=true "start")
 
+
 ## Or, II. Bring your enterprise Azure account
+
+If you bring your own enterprise Azure account, please make sure you have proper Azure service access right with following actions. 
+Either ask support from your Azure admin and/or with proper network constraints relaxed (firewall, etc):
+
+    * Create VM of SKU D4s_v3 - 4 vcpus, 16 GiB
+    * Remote access to your VM with RDP or basion 
+    * Create workspace in Microsoft Sentinel
+    * Access to Defender for IoT
+    * Create and configure IoT Hub
 
 # Environment preparation (Complete before you attend workshop)
 
