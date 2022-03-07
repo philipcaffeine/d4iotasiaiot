@@ -29,10 +29,13 @@ Please ignore Action A, as we are leveraging Azure Free account or enterprise Az
         Task 4: Enable Hyper-V
         Task 5: Microsoft Sentinel
 
-## Please be reminded to stop/shutdown your Defender sensor VM after environment setup. To save Azure credit/cost from your free trial account. Or your can bring your enterprise Azure accout as well. 
+## [IMPORTANT] To save Azure credit/cost from your free trial account. Please be reminded to stop/shutdown your Defender sensor VM after environment setup. Or your can bring your enterprise Azure accout as well. 
 
 
 # PCAP file download link:
-https://philworkshopstg01.blob.core.windows.net/d4iotasiaworkshop/holpcaps.zip
+
+On Hands on lab day, after intstallation of Defender completed, please use below link to download PCAP files for replay.
+
+    https://philworkshopstg01.blob.core.windows.net/d4iotasiaworkshop/holpcaps.zip
 
 
