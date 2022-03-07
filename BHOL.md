@@ -10,6 +10,12 @@ You can use your own Azure Subscription, or use below link to apply an Azure Chi
     https://azure.microsoft.com/en-us/free/
 
 
+1. To apply for a free Azure Account, Open Cloud Computing Services | Microsoft Azure
+Click "start free"
+
+![Alt text](figures/bhol-1.jpg?raw=true "start")
+
+
 ## Bring your enterprise Azure account
 
 # Environment preparation
