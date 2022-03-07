@@ -7,7 +7,7 @@
 ## I. Create an free Azure Subscription
     
 You can use your own Azure Subscription, or use below link to apply an Azure China trial subscription.    
-    https://azure.microsoft.com/en-us/free/
+https://azure.microsoft.com/en-us/free/
 
 
 1. To apply for a free Azure Account, Open Cloud Computing Services | Microsoft Azure
@@ -24,7 +24,7 @@ Click "start free"
 
 Before workshop, please help complete environment setup following by below BHOL tutorial of Action B: 
 
-    https://github.com/mpram/Azure-Defender-for-IoT/blob/main/Before%20HOL/Microsoft%20Defender%20for%20IoT%20BHOL.md
+https://github.com/mpram/Azure-Defender-for-IoT/blob/main/Before%20HOL/Microsoft%20Defender%20for%20IoT%20BHOL.md
 
 Please ignore Action A, as we are leveraging Azure Free account or enterprise Azure account for this workshop.
 
