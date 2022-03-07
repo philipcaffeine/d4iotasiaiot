@@ -17,6 +17,7 @@ Click "start free"
 
 2. Register Microsoft personal account to sign in and apply for free credit
 
+![Alt text](figures/bhol-2.jpg?raw=true "start")
 
 ## Or, II. Bring your enterprise Azure account
 
