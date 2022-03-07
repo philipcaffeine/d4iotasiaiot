@@ -4,7 +4,7 @@
 
 # Before conducting the tutorial, please prepare yourself with Azure account. 
 
-## Create an free Azure Subscription
+## I. Create an free Azure Subscription
     
 You can use your own Azure Subscription, or use below link to apply an Azure China trial subscription.    
     https://azure.microsoft.com/en-us/free/
@@ -16,9 +16,9 @@ Click "start free"
 ![Alt text](figures/bhol-1.jpg?raw=true "start")
 
 
-## Bring your enterprise Azure account
+## Or, II. Bring your enterprise Azure account
 
-# Environment preparation
+# Environment preparation (Complete before you attend workshop)
 
 ## Run Action B in tutorial
 
