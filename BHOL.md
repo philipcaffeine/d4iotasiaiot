@@ -50,7 +50,8 @@ Action B: Set up Environment
     Task 3: Connect to Virtual Machine
     Task 4: Enable Hyper-V
 
-        In Task 4, Step 5 and 6, you don't have to download and install Storage Explorer, you can just download the HOLfiles via below link from your browswer in RDP Windows envrionment.
+        In Task 4, Step 5 and 6, you don't have to download and install Storage Explorer.
+        Just download the HOLfiles via below link from your browswer in RDP Windows envrionment.
         https://philworkshopstg01.blob.core.windows.net/d4iotasiaworkshop/holpcaps.zip    
 
     Task 5: Microsoft Sentinel
