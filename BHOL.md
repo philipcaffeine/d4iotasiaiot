@@ -43,16 +43,17 @@ https://github.com/mpram/Azure-Defender-for-IoT/blob/main/Before%20HOL/Microsoft
 
 Please ignore Action A, as we are leveraging Azure Free account or enterprise Azure account for this workshop.
 
-    Action B: Set up Environment
-        Task 1: Resources
-        Task 2: Virtual Machine
-        Task 3: Connect to Virtual Machine
-        Task 4: Enable Hyper-V
+Action B: Set up Environment
 
-            In Task 4, Step 5 and 6, you don't have to download and install Storage Explorer, you can just download the HOLfiles via below link from your browswer in RDP Windows envrionment.
-            https://philworkshopstg01.blob.core.windows.net/d4iotasiaworkshop/holpcaps.zip    
+Task 1: Resources
+Task 2: Virtual Machine
+Task 3: Connect to Virtual Machine
+Task 4: Enable Hyper-V
 
-        Task 5: Microsoft Sentinel
+In Task 4, Step 5 and 6, you don't have to download and install Storage Explorer, you can just download the HOLfiles via below link from your browswer in RDP Windows envrionment.
+    https://philworkshopstg01.blob.core.windows.net/d4iotasiaworkshop/holpcaps.zip    
+
+Task 5: Microsoft Sentinel
 
 ## [IMPORTANT] To save Azure credit/cost from your free trial account. Please be reminded to stop/shutdown your Defender sensor VM after environment setup
 
