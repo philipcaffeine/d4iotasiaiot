@@ -41,7 +41,7 @@ Before workshop, please help complete environment setup following by below BHOL 
 
 https://github.com/mpram/Azure-Defender-for-IoT/blob/main/Before%20HOL/Microsoft%20Defender%20for%20IoT%20BHOL.md
 
-Please ignore Action A, as we are leveraging Azure Free account or enterprise Azure account for this workshop.
+Please ignore Action A (all) and Action B (Task 4, Step 5 and 6), as we are leveraging Azure Free account or enterprise Azure account for this workshop.
 
 Action B: Set up Environment
 
@@ -51,7 +51,7 @@ Action B: Set up Environment
     Task 4: Enable Hyper-V
 
         In Task 4, Step 5 and 6, you don't have to download and install Storage Explorer.
-        Just download the HOLfiles via below link from your browswer in RDP Windows envrionment.
+        You can just download the HOLfiles via below link from your browswer in RDP Windows envrionment.
         https://philworkshopstg01.blob.core.windows.net/d4iotasiaworkshop/holpcaps.zip    
 
     Task 5: Microsoft Sentinel
