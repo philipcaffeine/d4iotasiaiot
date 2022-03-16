@@ -52,7 +52,7 @@ Action B: Set up Environment
 
         In Task 4, Step 5 and 6, you don't have to download and install Storage Explorer.
         You can just download the HOLfiles via below link from your browswer in RDP Windows envrionment.
-        https://philworkshopstg01.blob.core.windows.net/d4iotasiaworkshop/holpcaps.zip    
+        https://aka.ms/md4iotpcaps    
 
     Task 5: Microsoft Sentinel
 
@@ -63,6 +63,10 @@ Action B: Set up Environment
 
 On Hands on lab day, after intstallation of Defender completed, please use below link to download PCAP files for replay.
 
-    https://philworkshopstg01.blob.core.windows.net/d4iotasiaworkshop/holpcaps.zip
+    pcap files download: 
+    https://aka.ms/md4iotpcaps
+
+    sensor iso image downlaod:
+    https://aka.ms/md4iotiso
 
 
