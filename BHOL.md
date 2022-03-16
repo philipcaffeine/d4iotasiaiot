@@ -68,8 +68,9 @@ On Hands on lab day, after intstallation of Defender completed, please use below
 
 https://aka.ms/md4iotpcaps
 
-    sensor iso image downlaod:
+    Sensor iso image downlaod:
 
 https://aka.ms/md4iotiso
 
+    Note: To copy your Defender sensor license/activation files from your working laptop to Windows VM, you can either copy and paste from RDP client, or share via email, One drive link, etc. 
 
